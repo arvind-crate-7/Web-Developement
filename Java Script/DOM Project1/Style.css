@@ -1,0 +1,29 @@
+body{
+    padding: 450px;
+    background-color: #e7b0d7;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    gap: 15px; 
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    /* background-color: #c5cbd4; */
+}
+
+#displayvalue{
+    border: 1px solid black;
+    padding: 5px 15px;
+       
+}
+#btn1{
+    background-color: green;
+}
+#btn2{
+    background-color: red;
+}
+#btn3{
+    background-color: #bdadad;
+}
